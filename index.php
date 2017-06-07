@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: ACF Search Simple
-Plugin URI: http://url
+Plugin URI: https://github.com/AlexShevchenko1985/plagin-acf-search
 Description: Add custom fields to WordPress website search results.
 Author: Alex Shevchenko
 Text Domain: bd
